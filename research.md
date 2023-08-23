@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /fundings/index.html
-title: Fundings
+permalink: /research/index.html
+title: Research
 ---
 
 ## Fundings
