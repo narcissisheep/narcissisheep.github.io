@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-# <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+# <img src="https://narcissisheep.github.io/narcissisheep.jpg" class="floatpic" width="360" height="360">
 
 Here is **Kaiyi Lin (Narsh, [林凯逸])**.
 
-I am a current Master's student in the **Institute of Architectural History and Theory** at Southeast University, China. I am tutoreded by [Prof. Ming Ge](http://www.gemingstudio.com/). 
+I am a current Master's student in the **Institute of Architectural History and Theory** at Southeast University, China. I am tutored by [Prof. Ming Ge](http://www.gemingstudio.com/). 
 
 <br>
 
@@ -18,11 +18,10 @@ Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for a Ph.D. to start in 2025 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
+- **Sep 2021 - June 2024:** Southeast University (MArch)
+- **Sep 2016 - May 2021:** Southeast University (BArch)
 
 <br>
 
